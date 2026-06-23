@@ -20,6 +20,7 @@ The system can identify related cases involving:
 * Rapid movement of funds
 
 Below screenshots indicates the results: 
+
 ![AML Search](screenshot/Money_Laundering_1.png)
 ![AML Search](screenshot/Money_Laundering_2.png)
 ![AML Search](screenshot/Money_Laundering_3.png)
