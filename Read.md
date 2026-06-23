@@ -30,7 +30,7 @@ The system can identify related cases involving:
 
 The application combines OpenAI embeddings, MongoDB Atlas, cosine similarity scoring, and AI-generated explanations within a Streamlit web interface.
 
-### System Architecture 
+## System Architecture 
 ![System_Architecture](<System Architecture.png>)
 
 ## Workflow
