@@ -8,12 +8,8 @@ Unlike keyword-based searches, this project uses vector embeddings and semantic 
 
 Example:
 
-Investigator Query:
+When an investigator queries "rapid deposits through customer accounts" as shown in the screenshot below:
 
-"rapid deposits through customer accounts"
-
-## Aplication screenshots
-### Home Page
 ![Home Page](screenshot/home_page.png)
 
 The system can identify related cases involving:
@@ -23,12 +19,12 @@ The system can identify related cases involving:
 * Funnel accounts
 * Rapid movement of funds
 
-### Money Laundering Search
+Below screenshots indicates the results: 
 ![AML Search](screenshot/Money_Laundering_1.png)
 ![AML Search](screenshot/Money_Laundering_2.png)
 ![AML Search](screenshot/Money_Laundering_3.png)
 
-The application combines OpenAI embeddings, MongoDB Atlas, cosine similarity scoring, and AI-generated explanations within a Streamlit web interface.
+Notice that the retrieved case does not use the same language as the query. Nevertheless, semantic search correctly identified it as conceptually related, with the similarity score indicating how closely they are related
 
 ## System Architecture 
 ![System_Architecture](<System Architecture.png>)
