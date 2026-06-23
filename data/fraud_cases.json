@@ -1,0 +1,121 @@
+[
+  {
+    "case_id": "F004",
+    "description": "Employee repeatedly submitted taxi receipts with identical amounts across different dates",
+    "amount": 450,
+    "type": "Expense Fraud",
+    "country": "USA"
+  },
+  {
+    "case_id": "F005",
+    "description": "Finance manager approved payments to a vendor owned by a relative",
+    "amount": 15000,
+    "type": "Conflict of Interest",
+    "country": "UK"
+  },
+  {
+    "case_id": "F006",
+    "description": "Multiple cash deposits just below $10000 reporting threshold across different branches",
+    "amount": 9800,
+    "type": "AML Structuring",
+    "country": "USA"
+  },
+  {
+    "case_id": "F007",
+    "description": "Ghost employees added to payroll with salaries redirected to one bank account",
+    "amount": 32000,
+    "type": "Payroll Fraud",
+    "country": "Nigeria"
+  },
+  {
+    "case_id": "F008",
+    "description": "Vendor submitted duplicate invoices with slight variations in invoice numbers",
+    "amount": 8700,
+    "type": "Procurement Fraud",
+    "country": "Canada"
+  },
+  {
+    "case_id": "F009",
+    "description": "Unusual spike in refunds processed by a single cashier",
+    "amount": 5400,
+    "type": "Retail Fraud",
+    "country": "USA"
+  },
+  {
+    "case_id": "F010",
+    "description": "Large international wire transfers to high-risk jurisdictions with no clear business purpose",
+    "amount": 75000,
+    "type": "Money Laundering",
+    "country": "UAE"
+  },
+  {
+    "case_id": "F011",
+    "description": "Round dollar payments made repeatedly to the same offshore account",
+    "amount": 20000,
+    "type": "Money Laundering",
+    "country": "Cayman Islands"
+  },
+  {
+    "case_id": "F012",
+    "description": "Employee altered vendor bank details leading to diverted payments",
+    "amount": 18000,
+    "type": "Payment Fraud",
+    "country": "USA"
+  },
+  {
+    "case_id": "F013",
+    "description": "Frequent voided sales transactions just before end of shift",
+    "amount": 2300,
+    "type": "Retail Fraud",
+    "country": "USA"
+  },
+  {
+    "case_id": "F014",
+    "description": "Use of multiple accounts to transfer funds in a circular pattern",
+    "amount": 41000,
+    "type": "Layering",
+    "country": "Singapore"
+  },
+  {
+    "case_id": "F015",
+    "description": "Invoices approved without supporting documentation repeatedly",
+    "amount": 12500,
+    "type": "Procurement Fraud",
+    "country": "Australia"
+  },
+  {
+    "case_id": "F016",
+    "description": "Customer accounts used to funnel money through rapid deposits and withdrawals",
+    "amount": 29000,
+    "type": "Money Laundering",
+    "country": "USA"
+  },
+  {
+    "case_id": "F017",
+    "description": "Same bank account used for multiple employees payroll payments",
+    "amount": 27000,
+    "type": "Payroll Fraud",
+    "country": "Kenya"
+  },
+  {
+    "case_id": "F018",
+    "description": "High-value purchases split into smaller transactions to avoid approval limits",
+    "amount": 9900,
+    "type": "Procurement Fraud",
+    "country": "USA"
+  },
+  {
+    "case_id": "F019",
+    "description": "Dormant account suddenly receiving large deposits followed by immediate transfers",
+    "amount": 65000,
+    "type": "Money Laundering",
+    "country": "USA"
+  },
+  {
+    "case_id": "F020",
+    "description": "Employee claimed mileage reimbursement for non-existent trips",
+    "amount": 800,
+    "type": "Expense Fraud",
+    "country": "USA"
+  }
+]

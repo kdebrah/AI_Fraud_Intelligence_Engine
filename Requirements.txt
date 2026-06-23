@@ -1,0 +1,4 @@
+pymongo
+openai
+python-dotenv
+numpy
